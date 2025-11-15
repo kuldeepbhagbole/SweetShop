@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+# NEVER commit your secrets!
+.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Operating System
+.DS_Store
+
+# Test Coverage
+/coverage
